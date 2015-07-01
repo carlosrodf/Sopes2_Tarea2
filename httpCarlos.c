@@ -20,9 +20,9 @@ using namespace std;
 char response[] = "HTTP/1.1 200 OK\r\n"
 "Content-Type: text/html; charset=UTF-8\r\n\r\n"
 "<!DOCTYPE html><html><head><title>Sopes2 - Tarea2</title>"
-"<style>body { background-color: #111 }"
+"<style>body { background-color: #58FAAC }"
 "h1 { font-size:4cm; text-align: center; color: black;"
-" text-shadow: 0 0 2mm red}"
+" text-shadow: 0 0 2mm blue}"
 "h2 {text-align: center; color: white;}</style></head>"
 "<body><h1>Sistemas Operativos 2</h1><h2>201212947 - Carlos Arturo Rodriguez Furlan</h2></body></html>\r\n";
  
